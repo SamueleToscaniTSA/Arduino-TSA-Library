@@ -1,0 +1,7 @@
+TSA_DCMOTOR	KEYWORD1
+setFrequency	KEYWORD2
+control	KEYWORD2
+setVel	KEYWORD2
+absortion	KEYWORD2
+prealarm	KEYWORD2
+alarm	KEYWORD2

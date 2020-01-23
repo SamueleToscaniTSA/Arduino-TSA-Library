@@ -1,0 +1,10 @@
+TSA_MENU	KEYWORD1
+setMenu	KEYWORD2
+switchPages	KEYWORD2
+level	KEYWORD2
+mainPages	KEYWORD2
+secondPages	KEYWORD2
+programming	KEYWORD2
+programModeBool	KEYWORD2
+programModeInt	KEYWORD2
+programModeFloat	KEYWORD2
